@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MovieFlix/static/css/main.d992773e.css",
+    "main.js": "/MovieFlix/static/js/main.e838e672.js",
+    "static/media/S2.mp4": "/MovieFlix/static/media/S2.fdb3aaa03ff207ec3bc5.mp4",
+    "static/media/home.jpg": "/MovieFlix/static/media/home.d5e8ba530a4f7f5ff552.jpg",
+    "static/media/login.jpg": "/MovieFlix/static/media/login.1a5678025d58f1a441b8.jpg",
+    "static/media/logo.png": "/MovieFlix/static/media/logo.f4070143e1f521da82a1.png",
+    "static/media/homeTitle.webp": "/MovieFlix/static/media/homeTitle.4c03814dda5512dd68ea.webp",
+    "index.html": "/MovieFlix/index.html",
+    "main.d992773e.css.map": "/MovieFlix/static/css/main.d992773e.css.map",
+    "main.e838e672.js.map": "/MovieFlix/static/js/main.e838e672.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d992773e.css",
+    "static/js/main.e838e672.js"
+  ]
+}
